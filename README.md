@@ -77,4 +77,4 @@ jupyter notebook customer_segmentation.ipynb
 - Compare K-Means against hierarchical clustering or DBSCAN
 
 ## Author
-Kusuma Somashatti - [GitHub](https://github.com/kusumasomashattiecerymec-crypto) | [LinkedIn](www.linkedin.com/in/kusuma-somashatti)
+Kusuma Somashatti - [GitHub](https://github.com/kusumasomashattiecerymec-crypto) | [LinkedIn](https://www.linkedin.com/in/kusuma-somashatti/)
